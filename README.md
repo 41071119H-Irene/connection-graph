@@ -10,6 +10,14 @@ By creating a network diagram, we aim to gain insights into the relationships be
 
 ## Analytic Process
 - Data Cleaning
+###### To Separate the item customers purchased by "," as every item correspond to the customer who bought.
+![image](https://github.com/41071119H-Irene/connection-graph/assets/112916890/3a530f03-bf94-4640-aa4c-0ed26f924a43)
+###### Make the data into a defaultdict(list)
+![image](https://github.com/41071119H-Irene/connection-graph/assets/112916890/60456b53-a32d-42c9-80a0-9e187d648008)
+
 - Visualize the Data
-- Having Insight
+###### Using Networkx to Draw the Connection Map, to find the connection between the customers and the items they purchased.
+  ![image](https://github.com/41071119H-Irene/connection-graph/assets/112916890/729ca1ee-67e4-413a-91e2-257bfba969b9)
+
+- Insights
 ## Conclusion
