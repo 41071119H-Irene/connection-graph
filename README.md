@@ -19,5 +19,6 @@ By creating a network diagram, we aim to gain insights into the relationships be
 ###### Using Networkx to Draw the Connection Map, to find the connection between the customers and the items they purchased.
   ![image](https://github.com/41071119H-Irene/connection-graph/assets/112916890/729ca1ee-67e4-413a-91e2-257bfba969b9)
 
-- Insights
-## Conclusion
+- Conclusion(Insights)
+#### As the figure, we can predict that the customer who bought the same products may buy the other products others bought. Since they may have similar needs.
+#### Proof: From the case of Emma Johnson, who bought smart watch, headphones, and tablet would want to buy TV or extrenal SSD since they bought "Tablet."
